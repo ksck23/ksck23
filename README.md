@@ -1,29 +1,52 @@
-Hi, I’m Shiva — a technology advisor and fractional CTO helping enterprises, mid-markets, and scale-ups modernize their platforms, adopt AI/LLMs, and scale engineering with confidence.
+# Shiva K
 
-With 12+ years of experience across Fortune 100 firms and VC-backed startups, I specialize in:
-
-🔹 Cloud-native platform transformation (AWS, GCP, Azure)  
-🔹 Data & AI architecture (Spark, Iceberg, dbt, LangChain, Pinecone, Llama2)  
-🔹 GenAI system design: RAG pipelines, agentic infra, AI governance  
-🔹 High-scale engineering org design (0 → 100+, multi-geo)  
-🔹 Strategic delivery models & investor-ready tech narratives
-
-I’ve helped clients close multi-million dollar contracts, restructure fragile systems, and ship production-grade AI experiences — all while improving TTM, reliability, and cost efficiency.
+**Enterprise Technology Advisor · Fractional CTO · Cloud, Data & GenAI Systems Architect**  
+Helping engineering leaders deliver resilient, scalable, and AI-ready platforms.
 
 ---
 
-### 🛠️ Tech & Tools
+I'm a hands-on technologist with 12+ years of experience guiding product and platform scale across enterprises, growth-stage startups, and global SaaS teams. My work focuses on:
 
-Cloud: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes  
-Data: Kafka · Apache NiFi · Spark · Iceberg · Airflow · dbt · RDBMS · NoSQL  
-AI/LLM: LangChain · Pinecone · OpenAI · Ollama · Llama2 · RAG · crewAI  
-DevSecOps: Vault · IAM · KMS · SOC2 · ISO27001 · OpenTelemetry  
-Languages: Python · Go · TypeScript · Bash  
-Apps: React.js · Node.js · Next.js
+- **Platform modernization** — re-architecting systems to support scale, velocity, and cross-geo delivery  
+- **AI/LLM strategy** — designing production-grade GenAI systems with LangChain, Pinecone, and agentic patterns  
+- **Data engineering** — building unified data pipelines, observability layers, and analytics at scale  
+- **Cloud-native delivery** — infrastructure as code, multi-cloud governance, and ops automation  
+- **Org & execution design** — helping CTOs scale engineering orgs and align product, platform, and roadmap strategy
+
+I’ve partnered with tech leaders across the US, India, and EMEA to solve foundational scale challenges — whether preparing for a $B+ exit, enabling AI adoption, or realigning delivery playbooks.
 
 ---
 
-### 📬 Let’s Connect
+## Core Specializations
 
-I work via strategic retainers or project-based advisory.  
-📧 shiva@revitolabs.com | 🌐 [revitolabs.com](https://revitolabs.com) | 📍 Global, Remote-First
+- Cloud & Infra: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes  
+- Data & Analytics: Apache NiFi · Kafka · Spark · Iceberg · Airflow · dbt  
+- GenAI & LLMs: LangChain · Pinecone · OpenAI · Llama2 · Ollama · RAG · Agentic Systems  
+- DevSecOps: Vault · IAM · KMS · OpenTelemetry · SOC2 · ISO27001  
+- Languages: Python · Go · TypeScript · Bash  
+- Frontend & APIs: React.js · Next.js · Node.js  
+
+---
+
+## Past Impact Highlights
+
+- **Carrier Corp** – Re-architected platform for 1M+ IoT devices/site; 20x latency reduction, 5x infra cost savings  
+- **Cyble** – Led unified data platform across 150TB+ assets; supported $24M Series B  
+- **Comcast USA** – Scaled event ingestion to 1B+/day; automated ops over 1200+ nodes  
+- **Global BFSI** – Designed LLM PoCs and AI infra; enabled multi-million contract in GenAI adoption  
+- **PathFactory** – Built 50+ eng org; platform scaled to attract Fortune 50 acquisition MoUs
+
+---
+
+## Work Style
+
+I typically engage via long-term retainer with executive stakeholders (CTOs, CPOs, Heads of Eng). I operate independently or alongside internal teams, offering architectural clarity, technical oversight, and delivery support where needed. Always outcome-driven, never vendor-biased.
+
+---
+
+## Contact
+
+- 🌐 [revitolabs.com](https://revitolabs.com)  
+- 📧 shiva@revitolabs.com  
+- 🏢 US Entity: Revito Labs LLC · Global, Remote-first  
+- 🔒 References available under NDA  
