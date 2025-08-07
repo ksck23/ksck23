@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I’m Shiva — a technology advisor and fractional CTO helping enterprises, mid-markets, and scale-ups modernize their platforms, adopt AI/LLMs, and scale engineering with confidence.
 
-<!--
-**ksck23/ksck23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 12+ years of experience across Fortune 100 firms and VC-backed startups, I specialize in:
 
-Here are some ideas to get you started:
+🔹 Cloud-native platform transformation (AWS, GCP, Azure)  
+🔹 Data & AI architecture (Spark, Iceberg, dbt, LangChain, Pinecone, Llama2)  
+🔹 GenAI system design: RAG pipelines, agentic infra, AI governance  
+🔹 High-scale engineering org design (0 → 100+, multi-geo)  
+🔹 Strategic delivery models & investor-ready tech narratives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve helped clients close multi-million dollar contracts, restructure fragile systems, and ship production-grade AI experiences — all while improving TTM, reliability, and cost efficiency.
+
+---
+
+### 🛠️ Tech & Tools
+
+Cloud: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes  
+Data: Kafka · Apache NiFi · Spark · Iceberg · Airflow · dbt · RDBMS · NoSQL  
+AI/LLM: LangChain · Pinecone · OpenAI · Ollama · Llama2 · RAG · crewAI  
+DevSecOps: Vault · IAM · KMS · SOC2 · ISO27001 · OpenTelemetry  
+Languages: Python · Go · TypeScript · Bash  
+Apps: React.js · Node.js · Next.js
+
+---
+
+### 📬 Let’s Connect
+
+I work via strategic retainers or project-based advisory.  
+📧 shiva@revitolabs.com | 🌐 [revitolabs.com](https://revitolabs.com) | 📍 Global, Remote-First
