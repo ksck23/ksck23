@@ -28,13 +28,15 @@ I’ve partnered with tech leaders across the US, India, and EMEA to solve found
 
 ---
 
-## Past Impact Highlights
+## Experience
 
-- **Carrier Corp** – Re-architected platform for 1M+ IoT devices/site; 20x latency reduction, 5x infra cost savings  
-- **Cyble** – Led unified data platform across 150TB+ assets; supported $24M Series B  
-- **Comcast USA** – Scaled event ingestion to 1B+/day; automated ops over 1200+ nodes  
-- **Global BFSI** – Designed LLM PoCs and AI infra; enabled multi-million contract in GenAI adoption  
-- **PathFactory** – Built 50+ eng org; platform scaled to attract Fortune 50 acquisition MoUs
+- **Carrier Corporation [Contract]** — July 2023 – Aug 2024  
+- **Cyble Inc** — Jan 2022 – Jan 2023  
+- **PathFactory Inc [Contract]** — March 2020 – Jan 2022  
+- **EA** — June 2018 – March 2020  
+- **Comcast [Contract]** — Dec 2016 – June 2018  
+- **Northern Trust [Contract]** — May 2016 – Dec 2016  
+- **Cognizant** — June 2012 – May 2016  
 
 ---
 
