@@ -21,10 +21,11 @@ I’ve partnered with tech leaders across the US, India, and EMEA to solve found
 
 - Cloud & Infra: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes  
 - Data & Analytics: Apache NiFi · Kafka · Spark · Iceberg · Airflow · dbt  
-- GenAI & LLMs: LangChain · Pinecone · OpenAI · Llama2 · Ollama · RAG · Agentic Systems  
+- GenAI & LLMs: LangChain · Pinecone · OpenAI · Llama2 · Ollama · RAG · Agentic Systems (CrewAI)
 - DevSecOps: Vault · IAM · KMS · OpenTelemetry · SOC2 · ISO27001  
 - Languages: Python · Go · TypeScript · Bash  
-- Frontend & APIs: React.js · Next.js · Node.js  
+- Frontend & APIs: React.js · Next.js · Node.js · GraphQL 
+- Databases: MongoDB · DynamoDB · Redshift · Cassandra · MySQL · Redis 
 
 ---
 
