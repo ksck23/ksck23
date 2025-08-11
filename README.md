@@ -20,12 +20,12 @@ I’ve partnered with tech leaders across the US, India, and EMEA to solve found
 
 ## Core Specializations
 
-- Cloud & Infra: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes  
-- Data & Analytics: Apache NiFi · Kafka · Spark · Iceberg · Airflow · dbt  
+- Cloud & Infra: AWS · GCP · Azure · Terraform · ArgoCD · Kubernetes 
+- Data & Analytics: Apache NiFi · Kafka · Spark · Iceberg · Airflow · dbt · Elasticsearch 
 - GenAI & LLMs: LangChain · Pinecone · OpenAI · Llama2 · Ollama · RAG · Agentic Systems (CrewAI) 
 - DevSecOps: Vault · IAM · KMS · OpenTelemetry · SOC2 · ISO27001 
-- Languages: Python · Go · TypeScript · Bash  
-- Frontend & APIs: React.js · Next.js · Node.js · GraphQL 
+- Languages: Python · Go · TypeScript · Bash 
+- Frontend & APIs: React.js · Next.js · Node.js · GraphQL · Oauth 2.0, JWT AuthN/AuthZ 
 - Databases: MongoDB · DynamoDB · Redshift · Cassandra · MySQL · Redis 
 
 ---
